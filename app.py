@@ -29,7 +29,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.title("Placement Prediction")
 st.markdown("""This web app is based on the Placement Data set available on [`Kaggle`](https://www.kaggle.com/benroshan/factors-affecting-campus-placement).
-            The original Notebook can be viewed from [`here`](https://www.kaggle.com/aakashg1999/eda-placement-aakash) which was created by [`Aakash`](https://www.kaggle.com/aakashg1999)""")
+            The original Notebook can be viewed from [`here`](https://www.kaggle.com/aakashg1999/eda-placement-aakash). [`Aakash`](https://www.kaggle.com/aakashg1999)""")
 
 
 # In[7]:

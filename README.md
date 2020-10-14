@@ -1,3 +1,3 @@
 # Placement-Project
-https://intense-castle-03852.herokuapp.com/ 
+App1.aakashgupta.online/ 
 Visit the link to view the streamlit based web app.
